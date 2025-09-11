@@ -49,3 +49,8 @@ data/
 # Environment variables
 # ======================
 .env
+
+utils/fertilizer.py
+utils/preprocess.py
+utils/weather_api.py
+

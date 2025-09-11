@@ -76,14 +76,13 @@ AgriSense/
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
-```bash
 git clone https://github.com/shravvan12/AgriSense.git
 cd AgriSense
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 pip install -r requirements.txt
 
-3️⃣ Run the App
+### 3️⃣ Run the App
 streamlit run app.py
 
 🙌 Contribution

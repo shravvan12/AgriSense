@@ -47,8 +47,8 @@ ARTIFACTS_DIR = "artifacts/disease"
 os.makedirs(MODELS_DIR, exist_ok=True)
 os.makedirs(ARTIFACTS_DIR, exist_ok=True)
 
-CROP_MODEL_URL = "https://drive.google.com/uc?id=1FVcyWGiLzmxPanqzbyqG7ALbHLccybqZ"  # replace with actual ID
-DISEASE_MODEL_URL = "https://drive.google.com/uc?id=1hKQ0gPgWHKkQJ4cpoKfIOuePlZGuNIhu"  # replace with actual ID
+CROP_MODEL_URL = "https://drive.google.com/uc?id=1FVcyWGiLzmxPanqzbyqG7ALbHLccybqZ"  
+DISEASE_MODEL_URL = "https://drive.google.com/uc?id=1hKQ0gPgWHKkQJ4cpoKfIOuePlZGuNIhu"  
 
 # --------------------------
 # Download function

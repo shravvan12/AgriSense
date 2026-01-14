@@ -38,9 +38,9 @@ AgriSense/
 - CNN model for disease detection  
     
  **Output & Visualization**  
-- Crop yield prediction 🌾  
-- Weather alerts ☁️  
-- Plant disease detection 🦠  
+- Crop yield prediction  
+- Weather alerts 
+- Plant disease detection 
   
  **Streamlit App**  
 - Interactive dashboards  
@@ -61,7 +61,7 @@ AgriSense/
 
 ##  Models & Datasets
 
-The trained models and large datasets are **not included** in this repo (too large 📦).  
+The trained models and large datasets are **not included** in this repo (too large).  
 Please download them using the links below:
 
 -  [Download Artifacts (Google Drive)](https://drive.google.com/drive/folders/1hKQ0gPgWHKkQJ4cpoKfIOuePlZGuNIhu?usp=drive_link)  
